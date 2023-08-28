@@ -1,0 +1,12 @@
+.QRcodeComponentCard .QRcodeImage {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.QRcodeComponentCard .QRcodeImage img {
+  width: 80%;
+  height: auto;
+}

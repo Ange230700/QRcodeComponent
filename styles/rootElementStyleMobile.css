@@ -1,0 +1,16 @@
+/* GOOGLE FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
+:root {
+  /* COLORS */
+  --bodyBackgroundLightGrayColor: hsl(212, 45%, 89%);
+  --cardBackgroundWhiteColor: hsl(0, 0%, 100%);
+  --paragraphTextGrayishBlueColor: hsl(220, 15%, 55%);
+  --headingTextDarkBlueColor: hsl(218, 44%, 22%);
+
+  /* FONTS */
+  --paragraphFontSize: 0.9375rem;
+  --textFontFamily: "Outfit", sans-serif;
+  --paragraphFontWeight: 400;
+  --headingFontWeight: 700;
+}
